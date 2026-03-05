@@ -1,4 +1,4 @@
-name: Deploy Metallic
+name: Deploy Metallic V2
 on:
   workflow_dispatch:
 permissions:
